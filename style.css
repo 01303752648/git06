@@ -2,3 +2,9 @@ p {
     color: red;
     background-color: green;
 }
+
+b {
+    color: #fff;
+    background-color: blue;
+    font-size: 30px;
+}
